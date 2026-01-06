@@ -1,8 +1,8 @@
 {
   "latest_version_name": "0.1.6",
   "latest_version_code": 7,
-  "download_url_android": "https://github.com/captlxm/scsire-release/releases/download/v0.1.4/scsire_0.1.4.apk",
-  "backup_download_url_android": "https://scsire-release.oss-cn-shanghai.aliyuncs.com/apk/scsire_0.1.4.apk",
+  "download_url_android": "https://github.com/captlxm/scsire-release/releases/download/v0.1.6/scsire_0.1.6.apk",
+  "backup_download_url_android": "https://scsire-release.oss-cn-shanghai.aliyuncs.com/apk/scsire_0.1.6.apk",
   "is_mandatory": false,
   "changelog": "增加常装货品查询、常靠码头查询及反馈、公司通告汇编、网络精彩信息四部分内容"
 }
