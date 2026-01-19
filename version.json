@@ -1,8 +1,8 @@
 {
-  "latest_version_name": "0.1.7",
-  "latest_version_code": 8,
+  "latest_version_name": "0.1.8",
+  "latest_version_code": 9,
   "download_url_android": "https://github.com/captlxm/scsire-release/releases/download/v0.1.7/scsire_0.1.7.apk",
   "backup_download_url_android": "https://scsire-release.oss-cn-shanghai.aliyuncs.com/apk/scsire_0.1.7.apk",
   "is_mandatory": false,
-  "changelog": "增加常装货品查询、常靠码头查询及反馈、公司通告汇编、网络精彩信息四部分内容"
+  "changelog": "提升页面加载速度。"
 }
