@@ -1,8 +1,8 @@
 {
   "latest_version_name": "0.1.8",
   "latest_version_code": 9,
-  "download_url_android": "https://github.com/captlxm/scsire-release/releases/download/v0.1.7/scsire_0.1.7.apk",
-  "backup_download_url_android": "https://scsire-release.oss-cn-shanghai.aliyuncs.com/apk/scsire_0.1.7.apk",
+  "download_url_android": "https://github.com/captlxm/scsire-release/releases/download/v0.1.7/scsire_0.1.8.apk",
+  "backup_download_url_android": "https://scsire-release.oss-cn-shanghai.aliyuncs.com/apk/scsire_0.1.8.apk",
   "is_mandatory": false,
   "changelog": "提升页面加载速度。"
 }
